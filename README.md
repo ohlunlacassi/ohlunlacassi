@@ -10,6 +10,11 @@ I'm thrilled to share that I'm still learning web development and within the nex
 
 So, let's embark on this exciting ride together, where art and technology collide to create the most amazing web experiences. Let's connect with fellow creatives and developers, and together, let's explore the ever-changing digital landscape with open minds and endless possibilities! I believe the best is yet to come! 
 
+what I interest:
+- makeup
+- learning new things
+- pottery
+
 
 Here below are some of my works:
 ![Mayara Wolfe](https://static.wixstatic.com/media/f4699d_a7bffecddfde4902a4c2050cef8f6bf8~mv2.jpg/v1/fill/w_798,h_1200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f4699d_a7bffecddfde4902a4c2050cef8f6bf8~mv2.jpg)
