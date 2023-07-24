@@ -1,5 +1,10 @@
 # Hello and Welcome
 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ohlunlacassi&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+
+    
 ## About Me
 Hey there! Welcome to this incredible journey of transformation! As a Bangkok native living in Germany, I've experienced a colorful life, both literally as a makeup artist and figuratively as I delved into the world of web development.
 
@@ -16,18 +21,7 @@ So, let's embark on this exciting ride together, where art and technology collid
 - learning new things
 - pottery
 
-
-Here below are some of my works:
-![Mayara Wolfe](https://static.wixstatic.com/media/f4699d_a7bffecddfde4902a4c2050cef8f6bf8~mv2.jpg/v1/fill/w_798,h_1200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f4699d_a7bffecddfde4902a4c2050cef8f6bf8~mv2.jpg)
-![Nene Sonko](https://static.wixstatic.com/media/f4699d_1efc01a2947a4967812fef12fb8640f2~mv2.jpg/v1/fill/w_798,h_998,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f4699d_1efc01a2947a4967812fef12fb8640f2~mv2.jpg)
-
-
-
 ## How To Reach Me
-  <a href="mailto:pjr_oh@hotmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
+  
   <a href="https://instagram.com/jaohxbeauty"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.jaoh.me/">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
+
