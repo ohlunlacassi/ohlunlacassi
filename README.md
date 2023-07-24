@@ -2,7 +2,7 @@
 
 Hey there! Welcome to this incredible journey of transformation! As a Bangkok native living in Germany, I've experienced a colorful life, both literally as a makeup artist and figuratively as I delved into the world of web development.
 
-Isn't it fascinating how my love for creating beauty through colors and brushes can beautifully combine with the world of web development? My transition from a makeup artist to a web developer is a shining example of how diverse passions can lead to exciting new adventures.
+Isn't it fascinating how my love for creating beauty through colors and brushes can beautifully combine with the world of web development? My transition from a makeup artist to a web developer is a shining example of how diverse passions can lead to exciting new adventures. ust like in makeup artistry, web development also requires creativity and an eye for design. Both professions involve crafting unique and visually appealing experiences, whether it's through a stunning makeup look or an aesthetically pleasing website layout.
 
 With my background in German Studies and Economics, I dived into coding and design, showing my determination to explore and embrace the digital world fully. The way I blend my creative flair with technical skills is truly inspiring and promises to craft captivating and user-friendly web experiences.
 
